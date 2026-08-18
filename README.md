@@ -1,6 +1,6 @@
-OpenCart Demo Manual Testing Project
+**OpenCart Demo Manual Testing Project**
 
-📌 Project Overview
+**📌 Project Overview**
 
 This repository contains the complete **Manual Testing documentation for the OpenCart Demo e-commerce application**.
 
@@ -8,7 +8,7 @@ The objective of this project was to test the major functionalities of the OpenC
 
 The testing was performed using a **Black Box Testing approach**, focusing on validating the application's functionality from an end-user perspective.
 
-📸 Project Screenshots
+**📸 Project Screenshots**
 
 Below are screenshots from the OpenCart Demo Manual Testing Project, including application testing activities, test documentation, test execution, and defects identified during testing.
 
@@ -23,7 +23,7 @@ Below are screenshots from the OpenCart Demo Manual Testing Project, including a
 <img width="939" height="636" alt="opencart 9" src="https://github.com/user-attachments/assets/7e505891-f658-429b-b4fa-db45c26309a6" />
 
 
-🎯 Project Objectives
+**🎯 Project Objectives**
 
 * Understand the functionality of an e-commerce web application.
 * Prepare a structured Test Plan.
@@ -34,7 +34,7 @@ Below are screenshots from the OpenCart Demo Manual Testing Project, including a
 * Prepare a Test Summary Report.
 
 
-🌐 Application Under Test
+**🌐 Application Under Test**
 
 Application: OpenCart Demo
 Application Type: E-Commerce Web Application
@@ -42,7 +42,7 @@ Application Type: E-Commerce Web Application
 The application provides various features, including product browsing, user account management, shopping cart functionality, wishlist management, and checkout functionality.
 
 
-🔍 Modules Tested
+**🔍 Modules Tested**
 
 The following modules and functionalities were covered during testing:
 
@@ -69,7 +69,7 @@ The following modules and functionalities were covered during testing:
 * Checkout
 
 
-🧪 Testing Approach
+**🧪 Testing Approach**
 
 The application was tested using:
 
@@ -82,7 +82,7 @@ The application was tested using:
 * Validation Testing
 
 
-📂 Project Deliverables
+**📂 Project Deliverables**
 
 This repository includes the following testing documents:
 
@@ -98,7 +98,7 @@ This repository includes the following testing documents:
 | Screenshots         | Contains screenshots of the application, test documentation, execution results, and identified defects. |
 
 
-🐞 Defects Identified
+**🐞 Defects Identified**
 
 During testing, 6 defects were identified.
 
@@ -107,13 +107,13 @@ Some test cases were also marked as Blocked because the corresponding functional
 Detailed information about the identified defects is available in the Bug Report, along with supporting screenshots.
 
 
-🛠 Tools Used
+**🛠 Tools Used**
 
 * Google Sheets / Microsoft Excel – Test documentation and defect tracking
 * GitHub – Project repository and version control
 * Web Browser – Application testing
 
-🔄 Testing Process
+**🔄 Testing Process**
 
 1. Analyzed the OpenCart Demo application.
 2. Identified the modules and functionalities to be tested.
@@ -126,9 +126,9 @@ Detailed information about the identified defects is available in the Bug Report
 9. Prepared the Requirement Traceability Matrix (RTM).
 10. Created the Test Summary Report.
 
-📁 Repository Structure
+**📁 Repository Structure**
 
-OpenCart-Manual-Testing/
+**OpenCart-Manual-Testing/**
 │
 ├── README.md
 ├── Screenshots/
@@ -152,7 +152,7 @@ OpenCart-Manual-Testing/
 
 👨‍💻 Author
 
-*Akshay Babu*
+**Akshay Babu**
 
 Aspiring Software Test Engineer with knowledge of:
 
@@ -167,7 +167,7 @@ Aspiring Software Test Engineer with knowledge of:
 * Basic SQL
 
 
-⭐ Conclusion
+**⭐ Conclusion**
 
 This project demonstrates practical experience in testing an e-commerce web application using a structured *Manual Testing and STLC process*.
 
